@@ -1,5 +1,5 @@
 Enlace de la aplicación desplegada (Streamlit Community Cloud):
-[PENDIENTE - completar tras desplegar]
+https://henrymonge-actividad4.streamlit.app/
 
 Enlace del repositorio (GitHub):
-[PENDIENTE - completar tras subir el proyecto]
+https://github.com/hlmonge/HenryMonge_Actividad4
