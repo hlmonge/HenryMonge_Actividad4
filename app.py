@@ -6,7 +6,7 @@ from datetime import datetime
 
 import streamlit as st
 
-st.set_page_config(page_title="Soporte Técnico en la Nube", page_icon="🛠️", layout="centered")
+st.set_page_config(page_title="Soporte Técnico en la Nube - Henry Monge", page_icon="🛠️", layout="centered")
 
 TIPOS_PROBLEMA = ["Hardware", "Software", "Red / Conectividad", "Cuenta de usuario / Acceso", "Otro"]
 PRIORIDADES = ["Baja", "Media", "Alta", "Crítica"]
