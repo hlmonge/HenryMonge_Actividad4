@@ -6,7 +6,7 @@ from datetime import datetime
 
 import streamlit as st
 
-st.set_page_config(page_title="Soporte Técnico en la Nube - Henry Monge", page_icon="🛠️", layout="centered")
+st.set_page_config(page_title="Soporte Técnico en la Nube", page_icon="🛠️", layout="centered")
 
 TIPOS_PROBLEMA = ["Hardware", "Software", "Red / Conectividad", "Cuenta de usuario / Acceso", "Otro"]
 PRIORIDADES = ["Baja", "Media", "Alta", "Crítica"]
@@ -44,7 +44,7 @@ Descripción del problema:
         servidor.sendmail(remitente, [destinatario], mensaje.as_string())
 
 
-st.title("🛠️ Servicio de Soporte Técnico en la Nube")
+st.title("🛠️ Servicio de Soporte Técnico en la Nube - Henry Monge")
 st.caption("Reporta un problema y la aplicación enviará automáticamente un correo al administrador.")
 st.divider()
 
