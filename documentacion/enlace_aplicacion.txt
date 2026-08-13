@@ -1,0 +1,5 @@
+Enlace de la aplicación desplegada (Streamlit Community Cloud):
+[PENDIENTE - completar tras desplegar]
+
+Enlace del repositorio (GitHub):
+[PENDIENTE - completar tras subir el proyecto]
